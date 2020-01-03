@@ -1,0 +1,15 @@
+h1, h2 {
+	    font-family: Arial;
+}
+
+h1 {
+	color: rgb(green);
+	font-size: 40;
+
+}
+
+h2 {
+    color: rgb(purple);
+	font-size: 20;
+}
+
